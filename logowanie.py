@@ -14,4 +14,6 @@ if __name__ == "__main__":
     age = int(sys.argv[1])
     print_maturity(age)
 
-#czyli ja już teraz nie działa jak wciskam przycick play, tylko musze komendą wywołać ? ?
+# czyli ja już teraz nie działa jak wciskam przycick play, tylko musze komendą wywołać ? ?
+
+# 
