@@ -13,3 +13,5 @@ if __name__ == "__main__":
     logging.debug("First parameter is %s" % sys.argv[1])
     age = int(sys.argv[1])
     print_maturity(age)
+
+#czyli ja już teraz nie działa jak wciskam przycick play, tylko musze komendą wywołać ? ?
